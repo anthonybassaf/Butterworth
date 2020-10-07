@@ -1,1 +1,1 @@
-# EllipticBandPass
+# ButterworthBandPass
